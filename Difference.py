@@ -8,3 +8,5 @@ print("Sum is",sum)
 print("Product is", product)
 division=a/b
 print("Division is",division)
+remainder=a%b
+print("Remainder is",remainder)
