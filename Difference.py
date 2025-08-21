@@ -6,3 +6,5 @@ product=a*b
 print("difference is",diff)
 print("Sum is",sum)
 print("Product is", product)
+division=a/b
+print("Division is",division)
